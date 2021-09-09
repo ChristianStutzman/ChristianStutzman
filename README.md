@@ -1,8 +1,8 @@
 ### Hi there, I'm Christian! 👋
-- 😄  I'm a full stack developer from Los Angeles, CA
-- 🔭  I’m open to job opportunities!
-- 💡  I'm interested in creating unique, full-stack applications that focus on delivering the greatest possible experience for the users that interact with them
-- 💻  View my online portfolio: https://christianstutzman.com
+- 😄 &nbsp;I'm a full stack developer from Los Angeles, CA
+- 🔭 &nbsp;I’m open to job opportunities!
+- 💡 &nbsp;I'm interested in creating unique, full-stack applications that focus on delivering the greatest possible experience for the users that interact with them
+- 💻 &nbsp;View my online portfolio: https://christianstutzman.com
 
 ### Languages and Tools 🛠
 
